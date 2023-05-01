@@ -1,0 +1,12 @@
+{
+  "name": "sap-ui5-data-binding",
+  "version": "1.0.0",
+  "description": "Il data binding in UI5 consente di collegare i dati ai controlli dell'interfaccia utente in modo da mostrare i dati in tempo reale. Ci sono diversi tipi di data binding, tra cui:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
